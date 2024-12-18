@@ -1,1 +1,1 @@
-print("TEMP")
+console.log("IM A IDIOT");
